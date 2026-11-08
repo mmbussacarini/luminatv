@@ -1,0 +1,3 @@
+{ "code": 3, "name": "3.0",
+  "notes": "- Busca e filtro de categoria dentro de cada lista\n- Tudo em ordem alfabetica\n- Favoritos faceis: estrela no card e no player\n- Painel de info do canal ao apertar OK\n- Ajustes de sistema (Wi-Fi, som, tela, data/hora)\n- Tela cheia corrigida e logos limpos",
+  "apk": "LuminaTV.apk" }
