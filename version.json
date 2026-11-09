@@ -1,3 +1,3 @@
-{ "code": 3, "name": "3.0",
-  "notes": "- Busca e filtro de categoria dentro de cada lista\n- Tudo em ordem alfabetica\n- Favoritos faceis: estrela no card e no player\n- Painel de info do canal ao apertar OK\n- Ajustes de sistema (Wi-Fi, som, tela, data/hora)\n- Tela cheia corrigida e logos limpos",
+{ "code": 4, "name": "3.2",
+  "notes": "- Cabecalhos user-agent/referer (recupera canais que exigiam header)\n- Suporte a DASH (.mpd)\n- Pula pro proximo canal sozinho quando um link falha\n- Mensagem clara: bloqueado na regiao / precisa de login / fora do ar\n- Filtro duplo (pais + categoria) em cada lista\n- Aba Clima com varias cidades e hora local\n- Pais onde mora + paises de interesse",
   "apk": "LuminaTV.apk" }
